@@ -1,0 +1,5 @@
+<meta>
+  <script src="vd_shared.lua" type="shared" cache="false" />
+  <script src="vd_c.lua" type="client" cache="false" />
+  <script src="vd_s.lua" type="server" />
+</meta>
